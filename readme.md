@@ -20,6 +20,8 @@ protocol websockets
 8. Fill up the username, password, and use `localhost` as the Host with `mqtt://` prefix.
 9. Create a new subscription on the client and send a message to the relevant topic to test.
 
+> If you prefer a video guide, head to the [YouTube video](https://youtu.be/U8f95agyUJg) that I published for everyone.
+
 ## Resources
 1. https://youtu.be/L26JY2NH-Ys
 2. https://youtu.be/Bz2JYxbkmuY
